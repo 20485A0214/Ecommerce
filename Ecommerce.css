@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecommerce-logo {
+    width: 163px;
+    height: 56px;
+}
+
+.ecommerce-carosel-container {
+    background-size: cover;
+}
+
+
+.service-container {
+    width: 100vw;
+}
+
+.service-heading {
+    color: #183b56;
+    font-family: Roboto;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.service-paragraph {
+    color: #616c7c;
+    font-family: Roboto;
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.blog-image {
+    width: 100px;
+    height: 100px;
+    transition-duration: 1000ms;
+}
+
+.blog-image:hover {
+    height: 130px;
+    width: 130px;
+}
+
+.blog-heading {
+    color: #1f2933;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.blog-paragraph {
+    color: #7b8794;
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 400;
+}
+
+
+.product-heading {
+    font-family: Roboto;
+    font-size: 35px;
+    font-weight: 800;
+    color: #183b56;
+}
+
+.product-card-container1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    border-radius: 8px;
+}
+
+.product-card-heading {
+    font-family: Roboto;
+    font-size: 35px;
+    font-weight: 800;
+    color: white;
+}
+
+.product-card-paragraph {
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+}
+
+.Button {
+    background-color: white;
+    color: #ff9f00;
+    border-width: 0px;
+    border-radius: 12px;
+    padding: 10px;
+
+}
+
+.Button2 {
+    background-color: white;
+    color: black;
+    border-width: 2px;
+    border-radius: 12px;
+    padding: 10px;
+    border-color: black;
+}
+
+.product-card-container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    border-radius: 8px;
+}
+
+.coloring {
+    color: #ff9f00;
+    font-weight: 500;
+}
+
+.offer-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    background-size: cover;
+}
+
+.offer-heading {
+    color: #ad2167;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.offer-paragraph {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.offer-image {
+    width: 100%;
+}
+
+
+.trending-heading {
+    color: #183b56;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.trending-card-paragraph {
+    color: #959ead;
+}
+
+.trending-image {
+    width: 100%;
+
+}
+
+
+.trending-card-heading {
+    color: #183b56;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.trending-paragraph {
+    color: #959ead;
+    font-size: 18px;
+}
+
+
+.explore-container {
+    background-color: #f5f7fa;
+    background-size: cover;
+}
+
+.explore-heading {
+    color: #183b56;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.explore-card-heading {
+    color: #183b56;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.explore-container2 {
+    background-color: white;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.explore-image {
+    width: 100%;
+    border-radius: 10px;
+    transition-duration: 1000ms;
+}
+
+
+.contact-container {
+    background-color: #f5f7fa;
+    background-size: cover;
+}
+
+.contact-heading {
+    color: #183b56;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.contact-button {
+    color: #ff9f00;
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ff9f00;
+    width: 150px;
+    height: 40px;
+}
+
+
+.followus-container {
+    background-color: #0d2436;
+    background-size: cover;
+}
+
+.followus-image {
+    width: 170px;
+    height: 60px;
+}
+
+.followus-container2 {
+    background-color: #152c3e;
+    border-radius: 50px;
+    padding-top: 9px;
+    padding-left: 5px;
+    width: 40px;
+    height: 40px;
+}
+
+.followus-image2 {
+    color: #5a7184;
+    width: 30px;
+    height: 50px;
+    text-align: center;
+
+}
+
+.followus-heading {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.followus-card-heading {
+    color: #5a7184;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.followus-paragraph {
+    color: #5a7184;
+    font-size: 15px;
+    list-style-type: none;
+}
+
+.underline {
+    background-color: #5a7184;
+    width: 100%;
+}
+
+.followus-paragraph2 {
+    color: #5a7184;
+    font-size: 13px;
+}
